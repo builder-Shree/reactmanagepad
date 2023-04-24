@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactmanagepad/static/css/main.430e4f3a.css",
+    "main.js": "/reactmanagepad/static/js/main.9b26b689.js",
+    "index.html": "/reactmanagepad/index.html",
+    "main.430e4f3a.css.map": "/reactmanagepad/static/css/main.430e4f3a.css.map",
+    "main.9b26b689.js.map": "/reactmanagepad/static/js/main.9b26b689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430e4f3a.css",
+    "static/js/main.9b26b689.js"
+  ]
+}
